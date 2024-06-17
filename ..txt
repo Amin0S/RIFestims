@@ -1,0 +1,13 @@
+---interface + 
+---Gestion des employés / projets / : 2 jours 
+
+--chapitre4(sprints) : 2 jours 
+
+
+---mise a jour de diagramme de classe
+
+
+-----Critique de l'existant : methodes classiques de prédictions  sans IA - prediction de durées des projets
+soluti: usage iA 
+
+R
